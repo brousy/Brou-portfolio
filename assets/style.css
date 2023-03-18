@@ -16,3 +16,31 @@ nav {
     display:flex;
     float: right;
 }
+
+.anchorpadding {
+    padding-right: 15px;
+    text-align: right;
+
+}
+
+
+.parkbanner {
+    background-image: url("../images/bannerimage.jpg");
+}
+
+.maintable {
+    height: 70%;
+
+}
+
+.tr_width{
+    width:100%;
+}
+
+.td_left {
+    width:30%;
+}
+
+.td_right {
+    width:70%;
+}
